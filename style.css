@@ -1,0 +1,97 @@
+#scene {
+    width: 100vw;
+    height: 56.42vw;
+    position: relative;
+}
+
+#baggrund {
+    width: 100vw;
+    height: 56.42vw;
+    background-image: url(baggrund08.png);
+    background-size: 100%;
+
+}
+
+#lorenzoscooter {
+    width: 18vw;
+    height: 19.4vw;
+    background-image: url(lorenzoP%C3%85SCOOTER.svg);
+    background-size: 100%;
+    position: absolute;
+    left: 10vw;
+    bottom: 8vw;
+    animation-name: dytdyt;
+    animation-duration: 7s;
+    animation-iteration-count: 5;
+    animation-timing-function: linear;
+}
+
+
+
+#mogens {
+    width: 10vw;
+    height: 16vw;
+    background-image: url(mogens.png);
+    background-size: 100%;
+    position: absolute;
+    right: 5vw;
+    bottom: 17vw
+}
+
+#trafiklys1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    position: absolute;
+    left: 42.2vw;
+    bottom: 28.7vw;
+    transform: scale(0.22)
+}
+
+#trafiklys2 {
+    width: 100px;
+    height: 100px;
+    background: green;
+    border-radius: 50%;
+    position: absolute;
+    left: 42.2vw;
+    bottom: 25vw;
+    transform: scale(0.22);
+    animation-name: trafiklys;
+    animation-duration: 2s;
+    animation-iteration-count: 5;
+}
+
+#truck {
+    width: 30vw;
+    height: 15vw;
+    background-image: url(truck-01.svg);
+    background-size: 100%;
+    position: absolute;
+    left: 54vw;
+    bottom: 24vw;
+    transform: scale(0.4)
+}
+
+
+@keyframes dytdyt {
+    20% {
+        left: 30vw;
+    }
+    40% {
+        left: 30vw;
+    }
+    100% {
+        left: 70vw;
+    }
+
+    @keyframes trafiklys {
+        from {
+            background: darkgreen;
+        }
+        to {
+            background: lawngreen;
+        }
+
+    }

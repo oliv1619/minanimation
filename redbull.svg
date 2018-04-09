@@ -1,0 +1,45 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="109" height="288" viewBox="0 0 109 288">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #1d00d0;
+      }
+
+      .cls-3 {
+        font-size: 19.66px;
+        fill: red;
+        font-family: Alcohol-Licks-Regular, Alcohol Licks;
+      }
+
+      .cls-4 {
+        font-size: 15.73px;
+      }
+
+      .cls-5 {
+        font-size: 17.69px;
+      }
+
+      .cls-6 {
+        fill: #ccc;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>redbull</title>
+  <path class="cls-1" d="M524.5,521.5s-48,58-107-3v-232s2-7,4-7,37,26,103,3Z" transform="translate(-417 -259)"/>
+  <path class="cls-2" d="M524,509s-36.21,25.43-78.46,13.22c0,0-3,1.24-5.55,14.86,0,0,45.79,29.22,86-12.65Z" transform="translate(-417 -259)"/>
+  <path class="cls-2" d="M468.5,417.5l31-121L498,289.6s-30.49,10.9-76.49-10.1l-4,7,2,116S453.5,418.5,468.5,417.5Z" transform="translate(-417 -259)"/>
+  <path class="cls-2" d="M446.5,510.5s19-93,22-93c0,0,24,3,56-16.5v95.67S491.5,523.5,446.5,510.5Z" transform="translate(-417 -259)"/>
+  <polygon class="cls-2" points="26.5 262.5 0.5 246.67 0.5 236.67 27.5 249.5 26.5 262.5"/>
+  <text class="cls-3" transform="translate(5.67 139) scale(0.97 1)">R<tspan class="cls-4" x="18.76" y="0">ed </tspan><tspan class="cls-5" x="50.22" y="0">B</tspan><tspan class="cls-4" x="67.11" y="0">ull</tspan></text>
+  <ellipse class="cls-6" cx="55.5" cy="17" rx="52" ry="15.5"/>
+</svg>
