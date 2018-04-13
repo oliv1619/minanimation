@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="700" height="500" viewBox="0 0 700 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00400d;
+      }
+
+      .cls-2 {
+        fill: #0f3;
+      }
+    </style>
+  </defs>
+  <title>Artboard 3</title>
+  <ellipse class="cls-1" cx="183" cy="238.5" rx="137" ry="123.5"/>
+  <ellipse class="cls-2" cx="527" cy="238.5" rx="137" ry="123.5"/>
+</svg>
